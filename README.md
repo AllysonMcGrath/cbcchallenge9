@@ -26,6 +26,8 @@ When displaying correctly, the command line and README file should look like the
 
 ![Markup of readme file](/images/readme.JPG)
 
+[Here](https://watch.screencastify.com/v/AkpbfhDjX95qLr1aMvlW) is a video showing the functionality of the code.
+
 
 
 
