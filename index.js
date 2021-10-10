@@ -149,7 +149,7 @@ function writeFile(fileName, data) {
 // // TODO: Create a function to initialize app
 function init() {
   questions().then(data => {
-    writeFile("README.md", generateMarkdown(data));
+    writeFile("EXAMPLE-README.md", generateMarkdown(data));
   })
 }
 
