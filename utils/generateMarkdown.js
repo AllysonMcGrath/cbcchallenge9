@@ -31,13 +31,13 @@ function generateMarkdown(data) {
 
 ## Installation<a name="installation"></a>
   ${data.installation}
-## Usage<a name="usage"/>
+## Usage<a name="usage"></a>
   ${data.usage}
 
 ## Contributing<a name="contributing"></a>
   ${data.contributing}
 
-## Tests<a name="tests"/>
+## Tests<a name="tests"></a>
   ${data.tests}
 
 ## Questions<a name="questions"></a>
