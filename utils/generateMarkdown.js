@@ -28,30 +28,23 @@ function generateMarkdown(data) {
   1. [Tests](#tests)
   1. [Questions](#questions)
   1. License(#license)
-<a name="installation">
-  ## Installation
-</a>
+
+## Installation<a name="installation"></a>
   ${data.installation}
-<a name="usage">
-  ## Usage
-</a>
+## Usage<a name="usage"/>
   ${data.usage}
-<a name="contributing">
-  ## Contributing
+
+## Contributing<a name="contributing"></a>
   ${data.contributing}
-</a>
-<a name="tests">
-  ## Tests
-</a>
+
+## Tests<a name="tests"/>
   ${data.tests}
-<a name="questions">
-  ## Questions
-</a>
+
+## Questions<a name="questions"></a>
   ${data.github}
   ${data.contact}
-<a name="license">
-  ## License
-</a>
+
+## License<a name="license"></a>
   ${licenseSection}
 `;
 }
