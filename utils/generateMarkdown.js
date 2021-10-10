@@ -41,8 +41,8 @@ function generateMarkdown(data) {
   ${data.tests}
 
 ## Questions<a name="questions"></a>
-  ${data.github}
-  ${data.contact}
+  All my repositories can be found on github with the username ${data.github}.
+  If you have further questions, you can contact me at ${data.email}.
 
 ## License<a name="license"></a>
   ${licenseSection}
