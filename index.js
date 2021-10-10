@@ -138,7 +138,6 @@ const questions = () => {
 
 // TODO: Create a function to write README file
 function writeFile(fileName, data) {
-  // renderLicenseBadge(data);
   fs.writeFile(fileName, data, error => {
     if(error){
       console.log(error);
