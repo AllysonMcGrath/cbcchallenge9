@@ -1,4 +1,4 @@
-# HTML/CSS-Portfolio Website
+# README Generator-Node.js
 
 ## Description
 
@@ -20,11 +20,13 @@ Detailed instructions for cloning GitHub repositories can be found [here.](https
 
 ## Usage
 
-When displaying correctly, website should look like the image below:
+When displaying correctly, the command line and README file should look like the below images:
 
 ![Questions listed in the command line](/images/commandline.JPG)
 
 ![Markup of readme file](/images/readme.JPG)
+
+[Here](https://watch.screencastify.com/v/AkpbfhDjX95qLr1aMvlW) is a video showing the functionality of the code.
 
 
 
@@ -44,6 +46,7 @@ Trilogy Education Services, LLC, a 2U, Inc. brand
 
 [Coding Boot Camp at UT](https://github.com/the-Coding-Boot-Camp-at-UT)
 
+[Xander Rapstine](https://github.com/Xandromus)
 
 
 ## License
