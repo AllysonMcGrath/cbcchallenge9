@@ -20,7 +20,7 @@ Detailed instructions for cloning GitHub repositories can be found [here.](https
 
 ## Usage
 
-When displaying correctly, website should look like the image below:
+When displaying correctly, the command line and README file should look like the below images:
 
 ![Questions listed in the command line](/images/commandline.JPG)
 
