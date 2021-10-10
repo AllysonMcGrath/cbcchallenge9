@@ -10,7 +10,7 @@
   1. [Contributing](#contributing)
   1. [Tests](#tests)
   1. [Questions](#questions)
-  1. License(#license)
+  1. [License](#license)
 
 ## Installation<a name="installation"></a>
   installation
