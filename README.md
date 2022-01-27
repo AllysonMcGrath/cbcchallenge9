@@ -12,7 +12,7 @@ The generator includes questions about the title, description, usage, contributi
 
 To install this project, you can clone the repository by using the command prompt
 
-$ git clone https://github.com/AllysonMcGrath/cbcchallenge9.git
+$ git clone https://github.com/AllysonMcGrath/node-readme-generator.git
 
 Detailed instructions for cloning GitHub repositories can be found [here.](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
 
